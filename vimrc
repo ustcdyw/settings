@@ -82,7 +82,6 @@ set t_Co=256
 
 set mouse=a
 
-
 "" File Type Detection
 filetype on          " 侦测文件类型
 filetype indent on
